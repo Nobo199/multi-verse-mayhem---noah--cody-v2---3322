@@ -1,0 +1,48 @@
+{
+    "name": "Multi-verse Mayhem - Noah & Cody V2 - 3/3/22",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#926e12eefffd09d453c7cde73f8d6ebd0e666d9d",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "darts": "*",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "corgio": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "color-coded-tilemap": "*",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "sprite-scaling": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.22",
+        "tag": "v1.8.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/6017af228c87817006b555668c65933bf3cbff4c",
+        "target": "1.8.22",
+        "pxt": "7.4.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
